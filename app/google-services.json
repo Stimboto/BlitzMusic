@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1024803930803",
+    "project_id": "blitzmusic-9ac4d",
+    "storage_bucket": "blitzmusic-9ac4d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1024803930803:android:c45b1b1ff30c839dbb66c6",
+        "android_client_info": {
+          "package_name": "com.stim.blitzmusic"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDggzpach3_HN8itdOKr1DO2CBbtbRdtDM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
